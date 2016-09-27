@@ -1,1 +1,2 @@
-I am trying to test git capabilities
+I am trying to test git capabilities. But now I am a new version on a
+branch!!

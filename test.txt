@@ -1,2 +1,2 @@
-I am trying to test git capabilities. But now I am a new version on a
+NEW MODIFICATION FROM patch today 23 feb I am trying to test git capabilities. But now I am a new version on a
 branch!!
